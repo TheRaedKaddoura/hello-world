@@ -1,2 +1,2 @@
 # hello-world
-I am learning web development to personal and professional purposes.
+I am learning web development for personal and professional purposes.
